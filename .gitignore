@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+*.local
+coverage/
+release/
+.DS_Store
+Thumbs.db
+*.tar.gz
+uploads/
